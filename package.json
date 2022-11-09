@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name":"mono-repo",
+    "workspaces": [
+        "ui","web"
+    ]
+
+}
